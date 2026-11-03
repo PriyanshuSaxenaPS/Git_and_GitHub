@@ -1,6 +1,6 @@
 {
     "project": "Flask Git Assignment",
-    "message": "Updated message from main branch",
-    "version": 3,
-    "branch": "main"
+    "message": "Updated message from new branch",
+    "version": 2,
+    "branch": "new"
 }
